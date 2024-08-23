@@ -15,3 +15,12 @@ The Smart Inventory Management System is a Python-based application designed to 
 ```bash
    git clone https://github.com/cryptoer-satoshi/Smart-Inventory-Management-System.git
 ```
+2. Navigate to the project directory:
+```bash
+cd smart_inventory
+```
+
+3. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
